@@ -1,2 +1,6 @@
-plese attention you must be run DataBase.sql in phpmyadmin
-plese read the code and change databse information in register.php and Logoin.php
+Please attention you must be run DataBase.sql in phpmyadmin
+
+
+
+
+Please read the code and change databse information in register.php and Logoin.php
